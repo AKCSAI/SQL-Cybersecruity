@@ -9,7 +9,7 @@ Clone this repository to your local environment:
 Copy code (bash) 
 git clone https://github.com/AKCSAI/SQL-Cybersecruity.git
 
-Step 1 - Convert the CSV file to SQL (The python is available in Python-Cybersecurity)
+Step 1 - Convert the CSV file to SQL (The python code is available in Python-Cybersecurity)
 
 Step 2 - Run sqlite3 <samplename>.db 
 
