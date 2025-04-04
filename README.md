@@ -11,13 +11,13 @@ git clone https://github.com/AKCSAI/SQL-Cybersecruity.git
 
 Step 1 - Convert the CSV file to SQL (The python code is available in Python-Cybersecurity)
 
-Step 2 - Run sqlite3 (any-name-you-want).db 
+NOTE: Make sure to remove the first number column in your CSV before conversion, or you'll get an error.
 
-Step 3 - The code for this is available in the SQL file. I've made it into a comment just copy and paste. 
+Step 2 - Run sqlite3 (any-name-you-want).db
 
-NOTE: Make sure to remove the first number column in your CSV before conversion, or you'll get an error. 
+Step 3 - The code for this is available in the SQL file. I've made it into a comment just copy and paste.
 
-Step 4 - .read (filename).sql 
+Step 4 - .read (filename).sql
 
 Step 5 - .tables (Test by typing just like that)
 
