@@ -17,11 +17,11 @@ Step 3 - The code for this is available in the SQL file. I've made it into a com
 
 NOTE: Make sure to remove the first number column in your CSV before conversion, or you'll get an error. 
 
-Step 4 - .read <filename>.sql 
+Step 4 - .read filename.sql 
 
-Step 5 - .tables <Test by typing just like that>
+Step 5 - .tables --Test by typing just like that>
 
-Step 6 - See all data is there SELECT * FROM <table name in the SQL comment>;
+Step 6 - See all data is there SELECT * FROM tablename;
 
 Ensure that the paths to any external files or resources are correctly set in your environment or scripts.
 Execute the SQL scripts as per the comments or documentation included in each file.
